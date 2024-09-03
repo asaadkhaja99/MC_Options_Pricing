@@ -17,5 +17,5 @@ This repository contains a Python project focussed on options pricing using Mont
 
 
 ## Acknowledgements
-
+This project serves as a practical exploration of the thoeries presented in Options, Futures, and Other Derivatives by John C. Hull. I also referred to existing implementations of specific aspects of the analysis online. I have credited these sources in the `analysis.ipynb` notebook. If there are any mistakes, inaccuracies, or conceptual flaws in this project, feel free to submit a pull request or drop me a note at asaadkhaja99@gmail.com.
 
